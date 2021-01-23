@@ -1,5 +1,3 @@
-
-
 // convert kilometer to meter function start here
 function kilometerToMeter(kilometer) {
     var meter = 1000;
